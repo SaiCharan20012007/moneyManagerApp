@@ -1,0 +1,160 @@
+/* Write your CSS here */
+.bg-container {
+  min-height: 100vh;
+  padding: 100px;
+  padding-top: 50px;
+}
+.profile-card {
+  min-height: 150px;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  padding: 20px;
+  padding-left: 40px;
+}
+.profile-name {
+  font-weight: bold;
+  font-family: Roboto;
+  font-size: 20px;
+  color: #475569;
+}
+.profile-description {
+}
+.span-element {
+  color: #0b69ff;
+  font-weight: 700;
+}
+.money-details {
+  list-style-type: none;
+
+  height: 100px;
+  margin-top: 40px;
+  padding: 0px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.bottom-container {
+  min-height: 400px;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.bottom-left-container {
+  border-style: solid;
+  border-color: #d7dfe9;
+  border-width: 2px;
+  width: 43%;
+  margin-right: 15px;
+  min-height: 400px;
+  border-radius: 10px;
+  padding: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.bottom-right-container {
+  border-style: solid;
+  border-color: #d7dfe9;
+  border-width: 2px;
+  width: 50%;
+  min-height: 400px;
+  padding: 30px;
+
+  border-radius: 10px;
+  padding-left: 50px;
+}
+.form-title {
+  color: #475569;
+  font-size: 20px;
+}
+label {
+  display: block;
+  color: #7e858e;
+  font-weight: 600;
+  margin-top: 15px;
+}
+#transationtitle {
+  border-color: #7e858e;
+  border-radius: 5px;
+  height: 35px;
+  border-width: 1px;
+  width: 75%;
+  margin-top: 5px;
+  padding: 7px;
+  font-size: 15px;
+  outline: none;
+}
+#transationamount {
+  border-color: #7e858e;
+  border-radius: 5px;
+  height: 35px;
+  border-width: 1px;
+  width: 75%;
+  margin-top: 5px;
+  padding: 7px;
+  font-size: 15px;
+  outline: none;
+}
+.option-styles {
+  border-color: #7e858e;
+  border-radius: 5px;
+  height: 35px;
+  border-width: 1px;
+  width: 75%;
+  margin-top: 5px;
+  padding: 7px;
+  font-size: 15px;
+  outline: none;
+}
+#formselection {
+  border-color: #7e858e;
+  border-radius: 5px;
+  height: 35px;
+  border-width: 1px;
+  width: 75%;
+  margin-top: 5px;
+  padding: 7px;
+  font-size: 15px;
+  outline: none;
+  display: block;
+}
+.add-transation-btn {
+  padding: 7px;
+  background-color: #0b69ff;
+  border-width: 0px;
+  margin: 10px;
+  color: white;
+  border-radius: 7px;
+  height: 35px;
+  width: 100px;
+  cursor: pointer;
+}
+.unorderdList {
+  border-width: 1px;
+  padding: 4px;
+  margin-top: 0px;
+}
+.list-container {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  font-weight: 700;
+  border-color: #d7dfe9;
+  padding-left: 7px;
+  font-size: 15px;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 3px;
+  margin-bottom: 0px;
+  padding-right: 7px;
+  width: 470px;
+  align-self: center;
+  color: #7e858e;
+}
+p {
+  margin-left: 5px;
+}
+ul {
+  margin: 0px;
+  width: 100%;
+}

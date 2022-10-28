@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.transaction-list-style {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  color: #7e858e;
+  font-weight: 700;
+  padding-left: 10px;
+  font-size: 15px;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  margin-top: -4px;
+  border-color: #d7dfe9;
+  font-weight: 500;
+  border-top-width: 0px;
+  align-self: center;
+  margin-right: 3px;
+  padding-right: 10px;
+}
+
+.deleteBtn {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
+.deleteIcon {
+  height: 25px;
+  width: 25px;
+}

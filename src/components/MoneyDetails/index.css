@@ -1,0 +1,58 @@
+/* Write your CSS here */
+.list-container1 {
+  height: 100px;
+  background-color: #ecfccb;
+  border-color: #84cc16;
+  margin: 0px;
+  width: 250px;
+  border-width: 2px;
+  border-radius: 10px;
+  border-style: solid;
+  display: flex;
+  padding: 15px;
+  align-items: center;
+  font-family: Roboto;
+}
+.list-container2 {
+  height: 100px;
+  background-color: #cffafe;
+  border-color: #06b6d4;
+  margin: 0px;
+  width: 250px;
+  border-width: 2px;
+  border-radius: 10px;
+  border-style: solid;
+  display: flex;
+  padding: 15px;
+  align-items: center;
+}
+.list-container3 {
+  height: 100px;
+  background-color: #ede9fe;
+  border-color: #7c3aed;
+  margin: 0px;
+  width: 250px;
+  border-width: 2px;
+  border-radius: 10px;
+  border-style: solid;
+  display: flex;
+  padding: 15px;
+  align-items: center;
+}
+.money-image {
+  height: 55px;
+  width: 55px;
+}
+.money-dec-container {
+  margin-left: 15px;
+}
+.money-viewer {
+  font-size: 20px;
+  margin-top: 0px;
+  color: #334155;
+  font-weight: 500;
+}
+.money-card-des {
+  margin-bottom: 5px;
+  color: #7e858e;
+}
